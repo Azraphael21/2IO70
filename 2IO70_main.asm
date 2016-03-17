@@ -1,6 +1,6 @@
 
 @DATA
-	; pdasd
+	; test stuff
 	butbuf	DW		0		; The previous button input.
 	current_digit	DW	0	; The current selected digit.
 	digits	DS		6		; The values of the individual digits.
